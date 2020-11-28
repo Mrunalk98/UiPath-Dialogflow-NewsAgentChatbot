@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newschatbotupdated",
+  "private_key_id": "529f44782de9960d92debeace0b8ea7fd073ff59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDi+FZcreSWcbGJ\nseOXY8sWpGL/Pt570cvxgCP7diywdsEZuSrdwWBgtuPFj7f3AfT2AMVsElzq6rFm\nrzrHLPifQbQtPPa3v5F9DidH6tI4SCCJBF5WY94PCByD+Sk10KfthHueN0g+tUp2\n4UupfyCP6kxsEQT9ykJxJXzA80Aw1D+AZIq/Lql2dLk4KVIpfo5DTE/DS3V7ksQB\nE2TbxWHD+iP4YF3wRDTvoAHm/FqzdzFMkWd60uSdXIe1uTuN5MJXdm3KdlgwYJ6D\nNzTmUbfY6SLJY3RkM3lW3p/fYSROr0907Fzgtf87+YGxOk5/dmqS092JZyYqL6OW\nooJYQ8j7AgMBAAECggEAIHEdqwaiB0z98vAN12xIsZZSnihG1czxiTXnLsC/94Mp\n67rXYTYMSBasLOdzhKdvc6A9l8pyJJPiQoqmbKTFbsIN9m9h1nbX3VeiDroGTUwl\n9l+8+j0xFtXyeXyqQsptzlni74T4Wxo/qAlg7rvAlEGJpeKy43G/GHwivlOmp7PR\n4QAkNcvlKa1UAvkZAXCoEgoEbkQLYPxwPLgmY+vA0ExxEstaYXmNqGXp5pXzomh7\nrXz/ii4EFy6US1qsBvHgq7JPnuVBiM5zS8VncA+ug6wUvrg1gi6RkZQaxVWbD1rl\nS0aQ3NP5cWJpTy7HiMrDeKvYKVAKC6frg0bR5MFfrQKBgQD6HWJpLcagWgos9Hzv\nwB/lS2PbV1h4asXh3FPeEJJkDS8xcQY1uXyhSBgaop+RP83886x8o3cZSHhYugmk\ntl90INbabHos9GBsZvx5hpB2P18SKm7r4XfvuR39EACXW1a/kn7uUFjGYpS0sc67\noiGmXtsQqFf57266MU5p4fEYFwKBgQDoT4lD03ThkIyNmGAK8hOImycQtK9KtIRR\n7TS8UJJ4dW36rgmn90UX1IZ84IkNmWz/VKdKbnvbXjgqLNZRJqOxEoJaUCyAVW4t\nNmCagy7ecTMmF8ogddTWQUubDOkkNw24AwHEclykCRmE4AttDbjIGV9h7LWbfgYP\n2vf+ZwMAvQKBgQDqgXiO0zujhyh5Q/aMOB/vtgL3Wer6ZGoKvbDoybLoGjCAc891\nuecvtM/c0VM5NZCmNbYo2n9FdlxYHH4EMHZJBK1N+F2JHsv1d44LR27VX8980cpU\nYX85heCnMETNpPcuAWX/fdfukemJjhkedgKE4fUVpjFuht7Ttn0l65FImwKBgH4+\n0uqgHHGEW02LlA3+tezT3Cvw9R3U8d+P18vKwX5i2oyTTb4Q22Ry408zumdAjIJJ\nX8xMNFTnZABPc3yQUf6lf19TGIv5YTGCzobJaYwK2nAGF5sCTdLNkyfEoWJD5Nmu\nEKTQPVYLd+nE05DFFzjuyO3vdFX265ZsOb7v/irFAoGBANTIL3azh9C86wsgUTfr\nNpAZEwp39ZxXNSFpK340yWfTjsE3qCCBZGGZWI1gFpWRCEtgRQCCYzyBosQA9eEp\nHuJyizCiQRA5tS2OIMzHF8abFRm4HUrNhDbS7IIVmsJ7XaF1OitjUrGv+3FLc2Pv\nynh4SZ2bVikiMhmCKW/qHlwd\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-newsagent-integrati@newschatbotupdated.iam.gserviceaccount.com",
+  "client_id": "116674098129340886677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-newsagent-integrati%40newschatbotupdated.iam.gserviceaccount.com"
+}
